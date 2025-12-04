@@ -10,7 +10,7 @@ img{
 	padding: 60px;
 	justify-content: center;
 	box-shadow:
-        0 15px 40px rgba(0,0,0,0.5),
+        0 15px 40px rgba(200,0,0,1),
         0 0 70px rgba(100,140,255,0.35);
 }
 
@@ -85,5 +85,6 @@ iframe {
 	justify-content: center;
 	width: 1000px
 }
+
 
 
